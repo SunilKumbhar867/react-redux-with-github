@@ -55,3 +55,11 @@ it will merge all the change of branch to master.
 
 # git remote add origin https://github.com/SunilKumbhar867/react-redux-with-github.git
 to push file on github server first make repository
+
+# $ git remote -v
+it will tell about from where your data will fetch and push
+
+# git push -u origin main or git push -u origin master
+
+
+
