@@ -7,7 +7,9 @@ import store from "./store";
 import { Provider } from "react-redux";
 
 // store.subscribe(() => console.log(store.getState()));
-
+/**
+ * to pass data we need provider and the as a props we pass all the state to store.js
+ */
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
@@ -17,7 +19,5 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+
 reportWebVitals();

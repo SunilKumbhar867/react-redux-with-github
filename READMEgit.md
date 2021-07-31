@@ -43,3 +43,9 @@ It will remove file from staging area.
 
 # git branch
 it will show branch
+
+# git branch branchname
+it will create new branch for you.
+
+# git checkout branchname
+it will swtich to branch 
