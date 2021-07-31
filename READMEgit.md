@@ -49,3 +49,6 @@ it will create new branch for you.
 
 # git checkout branchname
 it will swtich to branch 
+
+# git merge branchname
+it will merge all the change of branch to master.
