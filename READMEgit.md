@@ -52,3 +52,6 @@ it will swtich to branch
 
 # git merge branchname
 it will merge all the change of branch to master.
+
+# git remote add origin https://github.com/SunilKumbhar867/react-redux-with-github.git
+to push file on github server first make repository
