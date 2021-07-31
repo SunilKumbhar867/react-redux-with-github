@@ -30,3 +30,13 @@ it will revert to last commit that matchs the pervious commits.
 it will give all detail of committer and author
 
 # git commit -a -m "Skipping the stage area"
+
+# git log 
+to get see the git log 
+
+# but what if we want to get only last or specfic git log 
+((git log -p -1 )-> it will show only details of last commit)
+
+
+# git rm --cached filename
+It will remove file from staging area.
