@@ -6,7 +6,7 @@ import "./App.css"
 export default function App() {
   const state = useSelector(state => state.changeTheNumber);
   const dispatch = useDispatch();
-  return (
+  return (         
     <div>
       <>
         <div className="main-div">
