@@ -40,3 +40,6 @@ to get see the git log
 
 # git rm --cached filename
 It will remove file from staging area.
+
+# git branch
+it will show branch
